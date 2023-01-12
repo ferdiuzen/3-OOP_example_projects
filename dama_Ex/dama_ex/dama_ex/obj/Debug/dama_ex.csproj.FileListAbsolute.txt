@@ -1,0 +1,11 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\bin\Debug\dama_ex.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\bin\Debug\dama_ex.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\bin\Debug\dama_ex.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.Form1.resources
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.Properties.Resources.resources
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.csproj.GenerateResource.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\dama_Ex\dama_ex\dama_ex\obj\Debug\dama_ex.pdb

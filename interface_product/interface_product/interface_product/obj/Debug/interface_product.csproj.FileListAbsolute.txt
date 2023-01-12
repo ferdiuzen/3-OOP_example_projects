@@ -1,0 +1,8 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\bin\Debug\interface_product.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\bin\Debug\interface_product.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\bin\Debug\interface_product.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\obj\Debug\interface_product.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\obj\Debug\interface_product.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\obj\Debug\interface_product.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\obj\Debug\interface_product.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface_product\interface_product\interface_product\obj\Debug\interface_product.pdb

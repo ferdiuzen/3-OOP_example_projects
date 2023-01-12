@@ -1,0 +1,8 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\bin\Debug\interface_repeat.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\bin\Debug\interface_repeat.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\bin\Debug\interface_repeat.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\obj\Debug\interface_repeat.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\obj\Debug\interface_repeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\obj\Debug\interface_repeat.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\obj\Debug\interface_repeat.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\interface\interface_repeat\interface_repeat\obj\Debug\interface_repeat.pdb

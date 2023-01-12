@@ -1,0 +1,16 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\ProductProjectEF.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\ProductProjectEF.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\ProductProjectEF.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\EntityFramework.dll
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\EntityFramework.xml
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.Form1.resources
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.Properties.Resources.resources
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.csproj.GenerateResource.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.csproj.CopyComplete
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\productProject1\ProductProjectEF\obj\Debug\ProductProjectEF.pdb

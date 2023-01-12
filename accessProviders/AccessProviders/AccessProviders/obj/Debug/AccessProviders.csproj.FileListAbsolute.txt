@@ -1,0 +1,8 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\bin\Debug\AccessProviders.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\bin\Debug\AccessProviders.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\bin\Debug\AccessProviders.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\obj\Debug\AccessProviders.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\obj\Debug\AccessProviders.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\obj\Debug\AccessProviders.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\obj\Debug\AccessProviders.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\accessProviders\AccessProviders\AccessProviders\obj\Debug\AccessProviders.pdb

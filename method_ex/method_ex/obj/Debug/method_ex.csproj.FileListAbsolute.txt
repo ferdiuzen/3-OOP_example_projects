@@ -1,0 +1,8 @@
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\bin\Debug\method_ex.exe.config
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\bin\Debug\method_ex.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\bin\Debug\method_ex.pdb
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\obj\Debug\method_ex.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\obj\Debug\method_ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\obj\Debug\method_ex.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\obj\Debug\method_ex.exe
+C:\Users\SEM\Desktop\ERP205\method_repeat\method_ex\method_ex\obj\Debug\method_ex.pdb
